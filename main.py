@@ -1,2 +1,5 @@
 print("adivina el numero prueba")
 print("2da prueba")
+print("hola")
+print("Que tranza") 
+print("Pilas")
